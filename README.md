@@ -1,5 +1,1 @@
-*HTML
-*CURRICULUM VITAE (TRIAL VERSION)
-First Project  using Roadmaps 
-
-CHECK OUT [https://github.com/Chaney-jpeg/HTML-CV-.git]
+Sample Trial for [https://roadmap.sh/projects/single-page-cv] from roadmap.sh
